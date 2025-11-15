@@ -40,7 +40,7 @@ A responsive student dashboard for Ramdeobaba College featuring academic analyti
 - npm or yarn
 
 ### Installation
-git clone <your-repo-url>
+git clone <repo-url>
 cd <your-folder>
 
 Install dependencies:
